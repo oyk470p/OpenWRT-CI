@@ -12,8 +12,6 @@ on:
         type: choice
         options:
           - MEDIATEK
-          - ROCKCHIP
-          - X86
           - IPQ50XX-WIFI-YES
           - IPQ50XX-WIFI-NO
           - IPQ60XX-WIFI-YES

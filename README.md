@@ -4,7 +4,7 @@
 
 https://github.com/immortalwrt/immortalwrt.git
 
-高通版：
+通用版：
 
 https://github.com/VIKINGYFY/immortalwrt.git
 
@@ -42,5 +42,3 @@ Scripts——自定义脚本
 
 Config——自定义配置
 
-#
-[![Stargazers over time](https://starchart.cc/VIKINGYFY/OpenWRT-CI.svg?variant=adaptive)](https://starchart.cc/VIKINGYFY/OpenWRT-CI)
